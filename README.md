@@ -2,4 +2,4 @@ This repo contains my cybersecurity home lab projects, ran in virtual machines s
 
 ## Table of Contents
 ### 1. Cybersecurity Basics
-(Linux Command Line & Cybersecurity Fundamentals.md)
+[Exploring Fundamentals of Cybersecurity Lab](Linux Command Line & Cybersecurity Fundamentals.md)
