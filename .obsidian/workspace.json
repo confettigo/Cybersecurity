@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Command Line & Cybersecurity Fundamentals.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux Command Line & Cybersecurity Fundamentals"
+              "title": "README"
             }
           }
         ],
@@ -186,6 +186,7 @@
   },
   "active": "382e5a271d66b340",
   "lastOpenFiles": [
+    "Linux Command Line & Cybersecurity Fundamentals.md",
     "Pasted image 20251118174248.png",
     "Pasted image 20251118173624.png",
     "Pasted image 20251118173457.png",
@@ -196,8 +197,6 @@
     "Pasted image 20251118171401.png",
     "Pasted image 20251118164714.png",
     "Pasted image 20251118164529.png",
-    "Pasted image 20251118163951.png",
-    "Linux Command Line & Cybersecurity Fundamentals.md",
     "README.md"
   ]
 }
