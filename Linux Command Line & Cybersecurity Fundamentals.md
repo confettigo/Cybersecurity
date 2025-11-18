@@ -1,5 +1,5 @@
 Command Line Intro:
-[Image](https://github.com/confettigo/Cybersecurity/blob/master/Pasted%20image%2020251118163056.png)
+![Image](https://github.com/confettigo/Cybersecurity/blob/master/Pasted%20image%2020251118163056.png?raw=true)
 First, I update, upgrade, and reboot my system to make sure everything is up to date.
 ![[Pasted image 20251118163241.png]]
 I then switch to the root user. The prompt changes to reflect this.
